@@ -1,0 +1,53 @@
+@import "../../../../theme/styles/common.scss";
+
+.item {
+  display: flex;
+  border-bottom: 1px solid #f7f7f7;
+  margin-top: .2rem;
+  background: white;
+
+  .leftBox {
+    padding: .2rem;
+    padding-top: 0;
+
+    img {
+      height: 2rem;
+      width: 2rem;
+    }
+  }
+
+  .rightBox {
+    padding-right: .2rem;
+    overflow: hidden;
+    $marinBottom: .1rem;
+    flex: 1;
+
+    .title {
+      @include ellipsis();
+      color: $primary-color;
+      font-size: .36rem;
+      margin-bottom: $marinBottom;
+    }
+
+    .detail {
+      margin-bottom: $marinBottom;
+    }
+
+    .description {
+      @include ellipsis();
+      font-size: .2rem;
+      margin-bottom: $marinBottom;
+    }
+
+    .priceBox {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      .price {
+        font-size: .36rem;
+        color: $strong-color;
+      }
+    }
+  }
+}

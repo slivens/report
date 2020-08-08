@@ -1,0 +1,156 @@
+{
+  "house": [
+    {
+      "id": 1,
+      "method": 1,
+      "area": 100,
+      "houseInfo": {
+        "house": 1,
+        "hall": 1,
+        "bathroom": 1
+      },
+      "rent": 3500,
+      "title": "中亭街 元洪城亿力江滨免标准公寓",
+      "description": "1.房屋特征新房LOFT公寓，宽带需自行开通，具体看房细问",
+      "images": [
+        "https://pic1.ajkimg.com/display/hj/c7a420729bc0463b73c0593c764baa7f/600x450c.jpg?t=1",
+        "https://pic1.ajkimg.com/display/hj/1674f3d6916519b73c1f52ff90597e1b/600x450c.jpg?t=1",
+        "https://pic1.ajkimg.com/display/hj/1674f3d6916519b73c1f52ff90597e1b/600x450c.jpg?t=1"
+      ],
+      "pubtime": 1553342161815
+    },
+    {
+      "id": 2,
+      "method": 1,
+      "area": 100,
+      "houseInfo": {
+        "house": 1,
+        "hall": 1,
+        "bathroom": 1
+      },
+      "rent": 3600,
+      "title": "中亭街 元洪城亿力江滨免标准公寓",
+      "description": "1.房屋特征新房LOFT公寓，宽带需自行开通，具体看房细问",
+      "images": [
+        "https://pic1.ajkimg.com/display/hj/c7a420729bc0463b73c0593c764baa7f/600x450c.jpg?t=1",
+        "https://pic1.ajkimg.com/display/hj/1674f3d6916519b73c1f52ff90597e1b/600x450c.jpg?t=1",
+        "https://pic1.ajkimg.com/display/hj/1674f3d6916519b73c1f52ff90597e1b/600x450c.jpg?t=1"
+      ],
+      "pubtime": 1548484960480
+    },
+    {
+      "id": 3,
+      "method": 1,
+      "area": 100,
+      "houseInfo": {
+        "house": 1,
+        "hall": 1,
+        "bathroom": 1
+      },
+      "rent": 3700,
+      "title": "中亭街 元洪城亿力江滨免标准公寓",
+      "description": "1.房屋特征新房LOFT公寓，宽带需自行开通，具体看房细问",
+      "images": [
+        "https://pic1.ajkimg.com/display/hj/c7a420729bc0463b73c0593c764baa7f/600x450c.jpg?t=1",
+        "https://pic1.ajkimg.com/display/hj/1674f3d6916519b73c1f52ff90597e1b/600x450c.jpg?t=1",
+        "https://pic1.ajkimg.com/display/hj/1674f3d6916519b73c1f52ff90597e1b/600x450c.jpg?t=1"
+      ],
+      "pubtime": 1548484932329
+    },
+    {
+      "id": 4,
+      "method": 1,
+      "area": 100,
+      "houseInfo": {
+        "house": 1,
+        "hall": 1,
+        "bathroom": 1
+      },
+      "rent": 3800,
+      "title": "中亭街 元洪城亿力江滨免标准公寓",
+      "description": "1.房屋特征新房LOFT公寓，宽带需自行开通，具体看房细问",
+      "images": [
+        "https://pic1.ajkimg.com/display/hj/c7a420729bc0463b73c0593c764baa7f/600x450c.jpg?t=1",
+        "https://pic1.ajkimg.com/display/hj/1674f3d6916519b73c1f52ff90597e1b/600x450c.jpg?t=1",
+        "https://pic1.ajkimg.com/display/hj/1674f3d6916519b73c1f52ff90597e1b/600x450c.jpg?t=1"
+      ],
+      "pubtime": 1548472472626
+    },
+    {
+      "id": 5,
+      "method": "1",
+      "area": 125,
+      "rent": 5100,
+      "title": "万达旁山泉 独门独户联建新苑两房",
+      "description": "六一北路亚太中心（这里是地址）",
+      "images": [
+        "http://sz.xingjiezs.com/Public/Uploads/5b76918a45983.jpg",
+        "http://sz.xingjiezs.com/Public/Uploads/5b76918a45983.jpg",
+        "http://sz.xingjiezs.com/Public/Uploads/5b76918a45983.jpg"
+      ],
+      "pubtime": 1548472472626,
+      "houseInfo": {
+        "house": 1,
+        "hall": 1,
+        "bathroom": 1
+      }
+    },
+    {
+      "id": 6,
+      "method": 1,
+      "area": 100,
+      "houseInfo": {
+        "house": 1,
+        "hall": 1,
+        "bathroom": 1
+      },
+      "rent": 3800,
+      "title": "中亭街 元洪城亿力江滨免标准公寓",
+      "description": "1.房屋特征新房LOFT公寓，宽带需自行开通，具体看房细问",
+      "images": [
+        "https://pic1.ajkimg.com/display/hj/c7a420729bc0463b73c0593c764baa7f/600x450c.jpg?t=1",
+        "https://pic1.ajkimg.com/display/hj/1674f3d6916519b73c1f52ff90597e1b/600x450c.jpg?t=1",
+        "https://pic1.ajkimg.com/display/hj/1674f3d6916519b73c1f52ff90597e1b/600x450c.jpg?t=1"
+      ],
+      "pubtime": 1548472472626
+    },
+    {
+      "id": 7,
+      "method": "1",
+      "area": 125,
+      "rent": 5100,
+      "title": "万达旁山泉 独门独户联建新苑两房",
+      "description": "六一北路亚太中心（这里是地址）",
+      "images": [
+        "http://sz.xingjiezs.com/Public/Uploads/5b76918a45983.jpg",
+        "http://sz.xingjiezs.com/Public/Uploads/5b76918a45983.jpg",
+        "http://sz.xingjiezs.com/Public/Uploads/5b76918a45983.jpg"
+      ],
+      "houseInfo": {
+        "house": 1,
+        "hall": 1,
+        "bathroom": 1
+      },
+      "pubtime": 1548472472626
+    },
+    {
+      "id": 8,
+      "method": 1,
+      "area": 100,
+      "houseInfo": {
+        "house": 1,
+        "hall": 1,
+        "bathroom": 1
+      },
+      "rent": 3800,
+      "title": "中亭街 元洪城亿力江滨免标准公寓",
+      "description": "1.房屋特征新房LOFT公寓，宽带需自行开通，具体看房细问",
+      "images": [
+        "https://pic1.ajkimg.com/display/hj/c7a420729bc0463b73c0593c764baa7f/600x450c.jpg?t=1",
+        "https://pic1.ajkimg.com/display/hj/1674f3d6916519b73c1f52ff90597e1b/600x450c.jpg?t=1",
+        "https://pic1.ajkimg.com/display/hj/1674f3d6916519b73c1f52ff90597e1b/600x450c.jpg?t=1"
+      ],
+      "pubtime": 1548472472626
+    }
+  ]
+}

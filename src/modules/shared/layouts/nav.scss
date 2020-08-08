@@ -1,0 +1,41 @@
+@import "../../../theme/styles/common.scss";
+
+$header-height: 50px;
+
+@mixin header {
+  display: flex;
+  padding: 10px 20px;
+  justify-content: space-between;
+  align-items: center;
+  height: $header-height;
+  box-sizing: border-box;
+  background: $primary-color;
+}
+
+.homeHeader {
+  @include header;
+  color: white;
+
+  .btn {
+    border-radius: 3px;
+    background: navy;
+  }
+}
+
+.homdeDefault {
+  @include header;
+  position: relative;
+  justify-content: center;
+  color: white;
+
+  .iconBack {
+    position: absolute;
+    display: inline-block;
+    width: 40px;
+    text-align: center;
+    left: 20px;
+    height: 100%;
+    line-height: $header-height;
+    font-size: 30px;
+  }
+}

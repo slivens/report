@@ -1,0 +1,45 @@
+@media screen and (max-width: 999px) {
+  .selects {
+    display: flex;
+
+    .selectItem {
+      flex: 1;
+
+      .label {
+        display: none;
+      }
+
+      .chooseBox {
+        width: 100%;
+      }
+    }
+  }
+}
+
+// 大于1000px的样式
+@media screen and (min-width: 1000px) {
+  .selects {
+    padding: 10px 0;
+    border-bottom: 1px solid gray;
+    display: flex;
+
+    .selectItem {
+      display: flex;
+      width: 300px;
+      align-items: center;
+      justify-content: flex-start;
+
+      .label {
+        display: inline;
+      }
+
+      .chooseBox {
+        flex: 1;
+      }
+    }
+
+    .selectItem + .selectItem {
+      margin-left: 20px;
+    }
+  }
+}

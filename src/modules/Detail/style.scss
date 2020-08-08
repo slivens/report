@@ -1,0 +1,36 @@
+
+.detail {
+  color: black;
+
+  img {
+    width: 100%;
+  }
+}
+
+.houseContent {
+  padding: .5rem;
+
+  .title {
+    color: black;
+    font-size: .44rem;
+  }
+
+  .detail {
+    max-width: 10rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .price {
+      color: red;
+    }
+  }
+}
+
+.descriptionBox {
+  margin-top: .5rem;
+
+  .descriptionTitle {
+    font-weight: 500;
+  }
+}

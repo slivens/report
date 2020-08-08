@@ -1,0 +1,10 @@
+@import 'reset.css';
+/* 全局样式 */
+
+html,body {
+  font-size: 14px;
+  background: resolve('example.jpg');
+}
+#app {
+  height: 100%;
+}

@@ -1,0 +1,12 @@
+.frame {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  color: red;
+  background: white;
+  flex-grow: 1;
+//   margin: 10px 20px;
+}
